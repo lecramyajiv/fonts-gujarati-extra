@@ -5,8 +5,8 @@
 3. Rosetta [Rasa](https://github.com/rosettatype/yrsa-rasa)
 4. Jonpinhorn [Shrikhand](https://github.com/jonpinhorn/shrikhand)
 5. lipiraval [Mogra](https://github.com/lipiraval/mogra)
-
-
+6. Anexasajoop [Farsan](https://github.com/anexasajoop/farsan)
+7. Itfoundry [kumar] (https://github.com/itfoundry/kumar)
 
 
 # Download url of Fonts
@@ -17,3 +17,6 @@
 4. [Hind Vadodara](https://github.com/itfoundry/hind-vadodara/archive/d1972e4/hind-vadodara-d1972e4.tar.gz)
 5. [Rasa](https://github.com/rosettatype/yrsa-rasa/releases/download/v2.005/Rasa-fonts-v2.005.zip)
 6. [Shrikhand](https://github.com/jonpinhorn/shrikhand/archive/c11c9b0/shrikhand-c11c9b0.tar.gz)
+7. [Mogra](https://github.com/lipiraval/mogra/archive/048039d/mogra-048039d.tar.gz)
+8. [Farsan](https://github.com/anexasajoop/farsan/archive/c9b4cee/farsan-c9b4cee.tar.gz)
+9. [kumar](https://github.com/itfoundry/kumar/archive/3192a79/kumar-3192a79.tar.gz)
