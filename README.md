@@ -16,6 +16,7 @@ The fonts available are
 8.  lipiraval/Mogra
 9.  Anexasajoop/Farsan
 10. Debian/Kalapi
+11. NLCI/Gir
 
 Extra Gujarati fonts for Slackware Linux
 
