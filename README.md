@@ -15,6 +15,7 @@ The fonts available are
 7.  Rosetta/Rasa
 8.  lipiraval/Mogra
 9.  Anexasajoop/Farsan
+10. Debian/Kalapi
 
 Extra Gujarati fonts for Slackware Linux
 

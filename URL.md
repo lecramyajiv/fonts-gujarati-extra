@@ -6,8 +6,9 @@
 4. Jonpinhorn [Shrikhand](https://github.com/jonpinhorn/shrikhand)
 5. lipiraval [Mogra](https://github.com/lipiraval/mogra)
 6. Anexasajoop [Farsan](https://github.com/anexasajoop/farsan)
-7. Itfoundry [kumar] (https://github.com/itfoundry/kumar)
-
+7. Itfoundry [kumar](https://github.com/itfoundry/kumar)
+8. Debian [Kalapi](https://packages.debian.org/sid/fonts-kalapi)
+9. NLCI [Gir](https://github.com/nlci/gujr-font-gir)
 
 # Download url of Fonts
 
@@ -20,3 +21,5 @@
 7. [Mogra](https://github.com/lipiraval/mogra/archive/048039d/mogra-048039d.tar.gz)
 8. [Farsan](https://github.com/anexasajoop/farsan/archive/c9b4cee/farsan-c9b4cee.tar.gz)
 9. [kumar](https://github.com/itfoundry/kumar/archive/3192a79/kumar-3192a79.tar.gz)
+10. [Kalapi](http://http.us.debian.org/debian/pool/main/f/fonts-kalapi/fonts-kalapi_1.0-5_all.deb)
+11.  [Gir](https://github.com/nlci/gujr-font-gir/releases/download/v0.101/nlci-gujr-0.101.tar.xz)
